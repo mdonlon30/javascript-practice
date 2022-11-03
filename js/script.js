@@ -7,3 +7,5 @@ console.log('name is: ', name);
 food */
 let favoriteFood = 'fondue';
 console.log('favorite food is: ', favoriteFood);
+
+console.log("Supercalifragilisticexpialidocious".length);
